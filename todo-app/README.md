@@ -19,27 +19,32 @@ This microfrontend (MFE) Todo List application is a standalone React component b
 
 1. **Clone the Repository:**
 
-   ```bash
+```bash
    git clone <repository-url>
    cd microfrontend-todo/todo-app
-
-
-
-   ```
-
-2. **Install Dependencies:**
-   npm install
-
-3. **Run the Application:**
-   npm run dev
-
-4. **Build the Application for Production:**
-   npm run build
-
-5. **Serve the Production Build:**
-   npm install -g serve
-   serve -s dist
-
 ```
 
+2. **Install Dependencies:**
+
+```bash
+ npm install
+```
+
+3. **Run the Application:**
+
+```bash
+   npm run dev
+```
+
+4. **Build the Application for Production:**
+
+```bash
+   npm run build
+```
+
+5. **Serve the Production Build:**
+
+```bash
+   npm install -g serve
+   serve -s dist
 ```
