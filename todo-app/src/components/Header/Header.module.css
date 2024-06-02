@@ -1,0 +1,13 @@
+.todoHeader {
+  display: flex;
+  align-items: flex-end;
+}
+
+.todoHeader h1 {
+  flex-grow: 1;
+}
+
+.todoHeader h2 {
+  font-size: 1.2rem;
+  color: grey;
+}

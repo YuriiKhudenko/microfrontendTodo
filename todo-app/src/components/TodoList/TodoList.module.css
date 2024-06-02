@@ -1,0 +1,15 @@
+.todoList {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.listGroupItem {
+  position: relative;
+  display: block;
+  padding: 0.25rem 0.75rem;
+  margin-bottom: -1px;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
